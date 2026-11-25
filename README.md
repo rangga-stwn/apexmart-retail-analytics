@@ -17,7 +17,7 @@ I analyzed **9,993 retail transactions** (5,009 orders) from ApexMart covering 2
 ## Dashboard
 
 ### Page 1: Executive Performance Overview
-![Executive Overview](Images/page1_executive_overview.png)
+![Executive Overview](Images/page1_executive_overview..png)
 
 ### Page 2: Discount & Profitability Analysis
 ![Discount and Profitability](Images/page2_discount_profitability.png)
